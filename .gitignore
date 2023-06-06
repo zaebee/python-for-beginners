@@ -1,0 +1,13 @@
+*.pyc
+*.swp
+*.egg-info/
+__pycache__/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+.idea/
+.ipynb_checkpoints/
+
+.env
