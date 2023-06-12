@@ -2,6 +2,14 @@
 
 # 100+ Python challenging programming exercises
 
+## How to start
+
+* Fork repository on github
+* Create separate branch
+* Implement solution and commit
+* Push changes into repository
+* Create pull-request
+
 
 ## 1. Problem Template
 
