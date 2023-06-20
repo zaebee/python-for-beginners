@@ -30,9 +30,10 @@ to:1
 
 ### Hints
 
-> **_In case of input data being supplied to the question, it should be assumed to be a console input._**
+> **_Verify the output with running tests: python tasks_test.py_**
 
----
+
+
 
 # Question 23
 
@@ -48,7 +49,7 @@ to:1
 Using the ** operator which can be written as n**p where means n^p
 ```
 
----
+
 
 # Question 24
 
@@ -66,7 +67,7 @@ Using the ** operator which can be written as n**p where means n^p
 The built-in document method is __doc__
 ```
 
----
+
 
 # Question 25
 
@@ -79,6 +80,6 @@ The built-in document method is __doc__
 ### Hints:
 
 ```
-Define an instance parameter, need add it in __init__ method.You can init an object with construct parameter or set the value later
+Define an instance parameter, need add it in __init__ method. You can init an object with construct parameter or set the value later
 ```
 
