@@ -21,9 +21,8 @@
 
 ### Hints:
 
-> **_Consider use class, function and comprehension._**
+> **_Verify the output with running tests: python tasks_test.py. Consider use class, function and comprehension._**
 
----
 
 # Question 21
 
@@ -59,4 +58,4 @@ RIGHT 2
 
 ### Hints:
 
-> **_In case of input data being supplied to the question, it should be assumed to be a console input.Here distance indicates to euclidean distance.Import math module to use sqrt function._**
+> **_Verify the output with running tests: python tasks_test.py. Here distance indicates to euclidean distance. Import math module to use sqrt function._**
