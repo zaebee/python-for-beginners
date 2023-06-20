@@ -1,6 +1,6 @@
 """unittests for Day_8."""
 
-import tasks
+from . import tasks
 import unittest
 
 
