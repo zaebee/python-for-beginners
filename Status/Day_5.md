@@ -18,7 +18,7 @@
 
 ### Hints:
 
-> **_In case of input data being supplied to the question, it should be assumed to be a console input._**
+> **_Verify the output with running tests: python tasks_test.py._**
 
 ---
 
@@ -54,4 +54,4 @@ D 100
 
 ### Hints:
 
-> **_In case of input data being supplied to the question, it should be assumed to be a console input._**
+> **_Verify the output with running tests: python tasks_test.py_**
