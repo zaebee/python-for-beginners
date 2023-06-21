@@ -1,13 +1,13 @@
 """unittests for Day_8."""
 
-from . import tasks
 import unittest
 
 
 class TasksTest(unittest.TestCase):
+  """Unit tests for tasks."""
 
   def test_give_me_a_name(self):
-    pass
+    """TODO: change test_name and add desc."""
 
 
 if __name__ == '__main__':

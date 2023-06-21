@@ -1,4 +1,6 @@
-def validation(data: str) -> str:
+"""Tasks for Day_6."""
+
+def validation(_: str) -> str:
   """A website requires the users to input username and password to register.
   Write a program to check the validity of password input by users.
 
@@ -17,7 +19,7 @@ def validation(data: str) -> str:
   return ''
 
 
-def sort_tuples(data: str) -> list[tuple[str]]:
+def sort_tuples(_: str) -> list[tuple[str]]:
   """You are required to write a program to sort the (name, age, score)
   tuples by ascending order where name is string, age and score are numbers.
   The tuples are input by console. The sort criteria is:

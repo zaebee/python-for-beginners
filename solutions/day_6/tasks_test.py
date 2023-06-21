@@ -1,12 +1,15 @@
-"""Tests for Day_6 tasks."""
+"""Unit tests for Day_6 tasks."""
+
+import unittest
 
 from . import tasks
-import unittest
 
 
 class TasksTest(unittest.TestCase):
+  """Unit tests for tasks."""
 
   def test_validation(self):
+    """Returns valid passwords."""
     given = 'ABd1234@1,a F1#,2w3E*,2We3345'
     actual = tasks.validation(given)
 
@@ -14,6 +17,7 @@ class TasksTest(unittest.TestCase):
 
 
   def test_sort_tuples(self):
+    """Returns sorted tuples."""
     given = '''
     Tom,19,80
     John,20,90
